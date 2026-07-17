@@ -101,7 +101,7 @@ python project.py
 
 Druvan M
 - GitHub: [@druvanm](https://github.com/druvanm)
-- LinkedIn: (add your LinkedIn profile link here)
+- LinkedIn: www.linkedin.com/in/druvan-m-abbb70210
 
 ---
 
